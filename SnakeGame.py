@@ -2,7 +2,6 @@
 # Yax
 # Snake game
 
-import os.path
 import pygame
 from random import randint
 from time import sleep
